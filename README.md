@@ -4,15 +4,14 @@
 ## decentralized vpn
 **[Awesome VPN Network](https://github.com/Pantyhose-X/Awesome-VPN-Network)** \
 **[Forever domains are truly decentralized domains with no renewal fees, ever.](https://foreverdomains.io/)
-
+#
 - [git](#git)
 - [live streaming](#streaming)
 - [browser](#browser)
   - [PC](#PC)
   - [Android](#Android)
-- [Search engine](#Search-engine]
-
-
+- [Search engine](#Search-engine)
+#
 # git
 **[Radicle is a peer-to-peer stack for building software together. Sound fun? Try it](https://radicle.xyz/)** \
 **[decentragit uses decentralized ownership and storage to make it trivial to create a decentralized, shareable git remote of your project.](https://github.com/quorumcontrol/dgit)** \
