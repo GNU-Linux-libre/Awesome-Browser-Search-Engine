@@ -79,7 +79,30 @@ obs plugin: Record only the game sound [win-capture-audio](https://github.com/bo
 
 
 # Search engine
-
+### open source search engine
+open source Privacy-respecting search engine
+| Pattern| Result |
+|-------|--------|
+|[【sese-engine】新时代的搜索引擎！](https://github.com/RimoChan/sese-engine) |[Sese engine ui. 色色搜索引擎 UI](https://github.com/YunYouJun/sese-engine-ui) |
+|[SearXNG](https://github.com/searxng/searxng) |[Privacy-respecting, hackable metasearch engine](https://github.com/searxng/searxng) |
+|[searx](https://searx.space/) |[Searx engine](https://github.com/searx/searx) |
+|[tiekoettercom](https://github.com/tiekoettercom/searx-instances-uptime) |[SearXNG and SearX status and uptime monitoring](https://github.com/tiekoettercom/searx-instances-uptime) |
+|[paulgo.io](https://paulgo.io/) |[builds custom SearXNG](https://github.com/paulgoio/searxng) |
+|[gigablast](https://www.gigablast.com/) |[gigablast engine](https://github.com/gigablast/open-source-search-engine) |
+|[Meilisearch](https://github.com/meilisearch/meilisearch) |[Powerful, fast, and an easy to use search engine](https://docs.meilisearch.com/) |
+|[YaCy Search Engine](http://yacy.net/) |[Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance](https://github.com/yacy/yacy_search_server)|
+|[ipfs-search](http://ipfs-search.com/) |[IPFS Search engine for the Interplanetary Filesystem.](https://github.com/ipfs-search/ipfs-search) |
+|[dweb-search-frontend](https://dweb-search-frontend.on.fleek.co/) |[Frontend for dweb-search, formerly ipfs-search.com](https://github.com/ipfs-search/dweb-search-frontend) |
+|[IPSE](https://www.ipse.io/) |[The web 3.0's network traffic portal, Search Engine Based on the decentralized storage network](https://github.com/IPSE-TEAM) |
+|[Almonit](http://almonit.club/) |[ENS+IPFS Firefox plugin by Almonit](https://github.com/almonit/almonit-plugin) |
+|[Ahmia.fi](https://ahmia.fi/) |[Ahmia.fi - Hidden service onion search engine](https://github.com/ahmia/ahmia-site) |
+|[Learn Anything](https://learn-anything.xyz/) |[Organize world's knowledge, explore connections and curate learning paths](https://github.com/learn-anything/learn-anything) |
+|[jina](https://docs.jina.ai/) |[Cloud-Native Neural Search? Framework for Any Kind of Data](https://github.com/jina-ai/jina/) |
+|[OpenSearchServer](http://www.opensearchserver.com/) |[Open-source Enterprise Grade Search Engine Software](https://github.com/jaeksoft/opensearchserver) |
+|[Terrier](http://terrier.org/docs/v4.2/website_search.html) |[Terrier is a highly flexible, efficient, and effective open source search engine](https://github.com/terrier-org/terrier-core) |
+|[Whoogle Search](https://github.com/benbusby/whoogle-search) |[A self-hosted, ad-free, privacy-respecting metasearch engine](https://github.com/benbusby/whoogle-search) |
+#
+#
 <DL><p>
             <DT><A HREF="https://mycroftproject.com/search-engines.html" ADD_DATE="1606088263" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABlklEQVQ4jZWSsWtTURTGfylvuIUMb8jwhAxX6BJw8EGXikvQP0BDEIw4mOLQC5kenTq2/QOKoZuDEBfpJMVJW5c6CGlACIEOr6Nv6NBByB2Er8NLCsVcWg9cznDO9+Oc755KbhGBOPXQLsD1HPvv9iuLepZCYoAjX+bJZBLsWXp/GQZMPDQNFEURBuxewnoBv//+W9ypwasqTP9Mw4Du2y7nieVJATsXN0H3IogjWDbLQUDFGKPW8xZ+6vHec/T1C2kEjwzcj0ojz1ebHH8/XmgiWzGyETJVo7XHa3I9p2wzk12xstYKULaZBX+KYR3lFn2ro2wGi2uxXM/J9ZwAnfw4CQNshAa1EpJbNK6jGGSMUbqayq5YdV52NP41XgxpPm3KVI0aEXJVlJpSPPg4uBb09/pKH6bhKQAOPx+q+6arzuuO8jy/0Tz8ORSEL/bWGJ6WgFmmv9fX4EM5YXQXgPflTY9GIw4+Haj9og3ArWvNIz/LBShJkrkXAtR40Lj7Wkk9uRbO3/bu9v/50nrWErOjcxtOAFdwK7fObhcxSAAAAABJRU5ErkJggg==">Mycroft Project: Search Engine Plugins - Firefox IE Chrome</A>
             <DT><A HREF="https://www.alltheinternet.com/" ADD_DATE="1610852442" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACRklEQVQ4jXWT2UvUcRTFP/c7v1zGXYxpNJdA0hYxsMyiGtcYNR8isnyMQCsIeoj+hF4KCoLA5bmI6SUsLcixLHDJhxKSBMkMShxaNCWzGX+3BzNnsfv05XLO4Zx771eIqr2nnuw2SJtCtUCBogJMg/ELKx0j97xvwvGy9iis74nPTLWuq+oFETHRwgAotop2Wfb8pUFf89I/gcL6nviMZMdDMVK7hs3KiOfymSIAuu6/Z/Lj4rqO6nNL5+sHfc1LBiAz1XEtnAzQeMRNVbmLqnIXx2u2RhgREU/IZNwEkP0nn+60jT0m4AgH+W4cJHeLE1VY+Bmi8dwAwZAdFkfVNitlxjah1mjynuJ08txJvH43x+jbb6Qlb+JwWVbkPETE2FarQaU6elZNlTkAPH45Q++LmdVInuyNxlptQPLDO84EBzUVLn4HbfqGZnk2EuDX8goVpVlkpsVFudCCmHXVHnCRmODg69wyJ+pyafbm8WVuGcsheA+5YyxYoNMgJdH23ZsTOX+6MALc6HFz59H0ekP1g4WYPtASgPxsJyXb0/mxGORqx3gE+crZHRTmpVC0LYWJqYW/XeO3jB3stI11UcDRVJmDCPQNzdI/EogQKC1Op6Uhn2OebCamJkBVVaXdDPsaxgW9DZDstBgYDfDA/ykma3f/ZwZGAyTEr25chc5XvqOv1085xeoWoS6GuUHFnPJkb8Py94VQE+gtVbX/z8QG2pOccd6IzxRe+1r8u8QOtmFLNUIBIDY6LYjfOEzH8N3asXD8HxrH0FzoajnlAAAAAElFTkSuQmCC">All the Internet | A better way to search the Internet.</A>
