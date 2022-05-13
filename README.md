@@ -19,13 +19,14 @@
 **[A decentralization of GitHub using BitTorrent and Bitcoin](https://github.com/cjb/GitTorrent)** 
 
 # streaming
+[Glimesh](https://glimesh.tv/) \
 [Dlive Protocol](https://dlive.org/) Tutorials [Copy Live Key and Server to OBS](https://docs.dlive.org/docs/getting-started#setup-obs) Magnet Link is the address to watch the live stream \
 [dlive](https://dlive.io) \
 [TwitCasting](https://twitcasting.tv/) \
 [showroom](https://www.showroom-live.com/) \
 [GoodGame](https://goodgame.ru/) \
 Live Webcam [earthcam](https://www.earthcam.com/) \
-[twitch](https://www.twitch.tv) \
+[Twitch](https://www.twitch.tv) \
 [WASD.TV](https://wasd.tv/)
 
 
@@ -34,7 +35,7 @@ Streamlink [Stream URL Extraction Tool](https://pwn.sh/tools/getstream.html)
 OBS-based screen recording [streamlabs](https://streamlabs.com/) \
 [OBS](https://obsproject.com/) OBS setting>Output> `CPU usage preset (high = less CPU)` `ultrafast` OBS setting>Output> `Keyframe Interval {seconds,0=auto}` 2 \
 obs plugin: Simultaneous streaming on multiple platforms [obs-multi-rtmp](https://github.com/sorayuki/obs-multi-rtmp) \
-obs plugin: Record only the game sound [win-capture-audio](https://github.com/bozbez/win-capture-audio) Play the game can also listen to the song \
+obs plugin: Record only the game sound [win-capture-audio](https://github.com/bozbez/win-capture-audio) Play the game can also listen to the song 
 
 
 # Browser
