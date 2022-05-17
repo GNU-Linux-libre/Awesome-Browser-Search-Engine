@@ -2,7 +2,7 @@
 **[RSF’s 2022 World Press Freedom Index](https://rsf.org/en/index?year=2022)** \
 **[Global Freedom Internet Freedom Democracy Status](https://freedomhouse.org/explore-the-map?type=fiw&year=2022)** 
 ## decentralized vpn
-**[Awesome VPN Network](https://github.com/Pantyhose-X/Awesome-VPN-Network)** \
+**[Awesome VPN Network](https://github.com/GNU-Linux-libre/Awesome-VPN-Network)** \
 **[Forever domains are truly decentralized domains with no renewal fees, ever.](https://foreverdomains.io/)
 #
 - [git](#git)
