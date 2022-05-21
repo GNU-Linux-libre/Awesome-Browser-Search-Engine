@@ -33,10 +33,10 @@ Live Webcam [earthcam](https://www.earthcam.com/) \
 
 Streamlink [Stream URL Extraction Tool](https://pwn.sh/tools/getstream.html) 
 
-OBS-based screen recording [streamlabs](https://streamlabs.com/) \
 [OBS](https://obsproject.com/) OBS setting>Output> `CPU usage preset (high = less CPU)` `ultrafast` OBS setting>Output> `Keyframe Interval {seconds,0=auto}` 2 \
 obs plugin: Simultaneous streaming on multiple platforms [obs-multi-rtmp](https://github.com/sorayuki/obs-multi-rtmp) \
-obs plugin: Record only the game sound [win-capture-audio](https://github.com/bozbez/win-capture-audio) Play the game can also listen to the song 
+obs plugin: Record only the game sound [win-capture-audio](https://github.com/bozbez/win-capture-audio) Play the game can also listen to the song \
+OBS-based screen recording [streamlabs](https://streamlabs.com/) 
 
 
 # Browser
